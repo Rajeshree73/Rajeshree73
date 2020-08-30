@@ -1,12 +1,14 @@
 
 <img align="left" width="300" height="200" src="https://tenor.com/view/robot-hello-wave-hi-gif-14404937.gif">
+## Rajeshree here ✨ 
+I am 2020 B.Tech graduate in Electrical and Electronics Engineering from [Visvesvaraya National Institute of Technology, Nagpur](http://vnit.ac.in/). I aim to create a meaningful impact on the socitey through my contribuations to the techological adavnaces and by far to the robotics community.
+
+
+
 
 *It is possible for ordinary people to choose to be extraordinary* - **Elon Musk**
 
- Hi there 👋
 
-
-**Rajeshree73/Rajeshree73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
