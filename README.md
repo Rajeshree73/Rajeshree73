@@ -8,7 +8,7 @@ I am highly triggered by this motto in my life :nerd_face::
 
 **More About Me**:
 
-- 🔭 I’m currently working as a robotics researcher :robot:, focused mainly on Manipulator Mathematical Modelling and Advanced Controls.
+- 🔭 I’m currently working as a robotics researcher :robot:, focused mainly on Manipulator Mathematical Modelling and Controls.
 - 🌱 I’m currently learning new concepts and mathematics of Advanced Controls, ML, and RL.
 - 👯 I'm open to collaborating on robotic manipulator projects :mechanical_arm:.
 - :cherry_blossom: I'm also working on self-growth and effective learning methods and, would like inputs and recommendations. 
