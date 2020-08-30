@@ -15,15 +15,7 @@ Here are some ideas to get you started:
 - :octocat: I'm also passionated about: Reading :books:, Painting	:art:, Travelling :earth_americas:, and Gaming 	:video_game:.
 - :dart: Long term goal: To be *Limitless*
 
-## Contact Me:
-- :e-mail: You can reach me at  rajeshreedeotaluvnit@gmail.com
-  
-  
- <div align="center">
-  <p><i>Let's connect in different places over the internet!</i><p>
- 
- 
-
+**Contact Me**:
   <a href="https://twitter.com/FIR31415" alt="Twitter"><img src="readme/twitter-fill.svg"></a>
   <a href="https://www.linkedin.com/in/rajeshree73/" alt="Linkedin"><img src="readme/linkedin-fill.svg"></a>
   <a href="mailto:rajeshreedeotaluvnit@gmail.com" alt="Contact me"><img src="readme/mail-fill.svg"></a>
