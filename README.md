@@ -17,7 +17,7 @@ I am highly triggered by this motto in my life :nerd_face::
 
 **Contact Me**:
 
-  <a href="https://twitter.com/FIR31415" alt="Twitter"><img src="readme/twitter-fill.svg"></a>
-  <a href="https://www.linkedin.com/in/rajeshree73/" alt="Linkedin"><img src="readme/linkedin-fill.svg"></a>
-  <a href="mailto:rajeshreedeotaluvnit@gmail.com" alt="Contact me"><img src="readme/mail-fill.svg"></a>
+  <a href="https://twitter.com/FIR31415" alt="Twitter"><img src="https://raw.githubusercontent.com/Rajeshree73/Rajeshree73/master/readme/twitter-fill.svg"></a>
+  <a href="https://www.linkedin.com/in/rajeshree73/" alt="Linkedin"><img src="https://raw.githubusercontent.com/Rajeshree73/Rajeshree73/master/readme/linkedin-fill.svg"></a>
+  <a href="mailto:rajeshreedeotaluvnit@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/Rajeshree73/Rajeshree73/master/readme/mail-fill.svg"></a>
  
