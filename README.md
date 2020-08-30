@@ -1,8 +1,6 @@
 ### Hi there 👋
-![Alt Text](https://tenor.com/view/robot-hello-wave-hi-gif-14404937.gif)  wheuie8yuwieqwhkma;ldjqwioeudwedwerd
 
-<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
-<img align="left" width="100" height="100" src="https://tenor.com/view/robot-hello-wave-hi-gif-14404937.gif">
+<img align="left" width="200" height="200" src="https://tenor.com/view/robot-hello-wave-hi-gif-14404937.gif">
 **Rajeshree73/Rajeshree73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
