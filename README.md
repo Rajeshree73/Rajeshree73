@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ## Contact Me:
 
-![Link](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngfuel.com%2Ffree-png%2Ffvhqz&psig=AOvVaw3iuTVsRZ7vLm9BMx6SM7Cz&ust=1598899889281000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNC467LMw-sCFQAAAAAdAAAAABAD)
+![Link](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngfuel.com%2Ffree-png%2Ffvhqz&psig=AOvVaw3iuTVsRZ7vLm9BMx6SM7Cz&ust=1598899889281000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNC467LMw-sCFQAAAAAdAAAAABAD.png)
 
 - :e-mail: You can reach me at  rajeshreedeotaluvnit@gmail.com
