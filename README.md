@@ -16,7 +16,15 @@ Here are some ideas to get you started:
 - :dart: Long term goal: To be *Limitless*
 
 ## Contact Me:
-
-![Link](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngfuel.com%2Ffree-png%2Ffvhqz&psig=AOvVaw3iuTVsRZ7vLm9BMx6SM7Cz&ust=1598899889281000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNC467LMw-sCFQAAAAAdAAAAABAD.png)
-
 - :e-mail: You can reach me at  rajeshreedeotaluvnit@gmail.com
+  
+  
+  <div class="flex flex-col items-center content-end my-5">
+    <div class="flex mb-2 space-x-3">
+      <a href="https://twitter.com/jayehernandez_" aria-label="Twitter" target="_blank" rel="noopener">{% include "icons/twitter.njk" %}</a>
+      <a href="https://linkedin.com/jayehernandez" aria-label="Linkedin" target="_blank" rel="noopener">{% include "icons/linkedin.njk" %}</a>
+      <a href="https://linkedin.com/in/jayehernandez" aria-label="Linkedin" target="_blank" rel="noopener">{% include "icons/linkedin.njk" %}</a>
+      <a href="https://github.com/jayehernandez" aria-label="Github" target="_blank" rel="noopener">{% include "icons/github.njk" %}</a>
+      <a href="mailto:jaye@jayehernandez.com" aria-label="Mail" target="_blank" rel="noopener">{% include "icons/mail.njk" %}</a>
+    </div>
+
