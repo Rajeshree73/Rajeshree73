@@ -15,9 +15,18 @@ I am highly triggered by this motto in my life :nerd_face::
 - :octocat: I'm also passionate about: Reading :books:, Painting	:art:, Travelling :earth_americas:, and Gaming 	:video_game:.
 - :dart: Long term goal: To be *Limitless*
 
-**Contact Me**:
+**Connect with Me**:
 
-  <a href="https://twitter.com/FIR31415" alt="Twitter"><img src="https://raw.githubusercontent.com/Rajeshree73/Rajeshree73/master/readme/twitter-fill.svg"></a>
-  <a href="https://www.linkedin.com/in/rajeshree73/" alt="Linkedin"><img src="https://raw.githubusercontent.com/Rajeshree73/Rajeshree73/master/readme/linkedin-fill.svg"></a>
-  <a href="mailto:rajeshreedeotaluvnit@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/Rajeshree73/Rajeshree73/master/readme/mail-fill.svg"></a>
- 
+<a target="_blank" href="https://www.linkedin.com/in/rajeshree73/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://raw.githubusercontent.com/Rajeshree73/Rajeshree73/master/readme/linkedin-fill.svg" />
+</a>
+<a target="_blank" href="https://scholar.google.com/https://scholar.google.com/citations?user=eE7VYVoAAAAJ&hl=en">
+  <img align="left" alt="GoogleScholar" width="22px" src="https://cdn.worldvectorlogo.com/logos/google-scholar.svg" />
+</a>
+<a target="_blank" href="https://twitter.com/FIR31415">
+  <img align="left" alt="twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" />
+</a>
+<a target="_blank" href="mailto:rajeshreedeotaluvnit@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" />
+</a>
+</br>
