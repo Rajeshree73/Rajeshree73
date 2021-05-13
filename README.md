@@ -1,7 +1,7 @@
 
 <img align="left" width="300" height="200" src="https://tenor.com/view/robot-hello-wave-hi-gif-14404937.gif">
 
-## Rajeshree here ✨ 
+## Hi, I'm Rajeshree ✨ 
 I am a 2020 B.Tech graduate in Electrical and Electronics Engineering from [Visvesvaraya National Institute of Technology, Nagpur](http://vnit.ac.in/). I aim to create a meaningful impact on the society through my contributions to the technological advances and by far to the robotics community. 
 I am highly triggered by this motto in my life :nerd_face::  
 "*It is possible for ordinary people to choose to be extraordinary*" - **Elon Musk**
