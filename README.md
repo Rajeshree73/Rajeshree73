@@ -6,6 +6,9 @@ I am a 2020 B.Tech graduate in Electrical and Electronics Engineering from [Visv
 I am highly triggered by this motto in my life :nerd_face::  
 "*It is possible for ordinary people to choose to be extraordinary*" - **Elon Musk**
 
+
+
+
 **More About Me**:
 
 - 🔭 I’m currently working as a robotics researcher :robot:, focused mainly on Manipulator Mathematical Modelling and Controls.
